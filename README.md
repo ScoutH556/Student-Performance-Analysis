@@ -22,8 +22,7 @@ This project analyzes how student habits relate to exam performance using EDA an
 
 ## Results
 - 📊 Full analysis: [student_performance.ipynb](student_performance.ipynb)
-- 📄 Final report: [Student Performance Report](report/Student_Performance_Report.pdf)
-
+- 📄 Final report: [Student Performance Report](report/Student%20Performance%20Report.pdf)
 
 ## Tools
 Python, pandas, numpy, matplotlib, seaborn, scikit-learn
